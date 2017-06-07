@@ -1,33 +1,31 @@
----
-title: "Untitled"
-output: github_document
----
+Untitled
+================
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
+R Markdown
+----------
 
 **combining <del>*a few* </del> of them**
 
 #### Bullet Points
-- How about lists?
-- They work nicely too
-	+ Sometimes
-		+ we can even
-			- indent
-				* them
 
-## Ordered Lists
-1. They are
-2. also 
-3. easy to
-4. pull off
-	- have non-ordered lists
-	- nested into the ordered ones
-		1. Or vice-versa
-		2. Isn't that great??
+-   How about lists?
+-   They work nicely too
+    -   Sometimes
+        -   we can even
+            -   indent
+                -   them
+
+Ordered Lists
+-------------
+
+1.  They are
+2.  also
+3.  easy to
+4.  pull off
+    -   have non-ordered lists
+    -   nested into the ordered ones
+        1.  Or vice-versa
+        2.  Isn't that great??
 
 ### Coating
 
