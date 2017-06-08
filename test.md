@@ -37,9 +37,11 @@ This great statement is from :
 
 <a name="figure1"></a>
 <p style="text-align: center;">
-![](https://imgs.xkcd.com/comics/stove_ownership.png "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.") <br> <br> <a name="figure2"></a>
+<img src="https://imgs.xkcd.com/comics/stove_ownership.png" alt="Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can">
+</p>
+<br> <br> <a name="figure2"></a>
 <p style="text-align: center;">
-![](https://imgs.xkcd.com/comics/stove_ownership.png "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.")
+<img src="https://imgs.xkcd.com/comics/stove_ownership.png" alt="Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can">
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> As it can be seen in [figure-1](#figure1)
 
