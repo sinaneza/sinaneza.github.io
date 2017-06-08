@@ -36,6 +36,7 @@ This great statement is from :
 > "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."
 
 ###Including Figures
+
 <a name="figure1"></a>
 <p style="text-align: center;"> ![](https://imgs.xkcd.com/comics/stove_ownership.png "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.")
 <br>
